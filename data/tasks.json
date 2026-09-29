@@ -41,10 +41,8 @@
     "sourceIds": [
       "ep0-reshoot-talking"
     ],
-    "status": "done",
-    "text": "לצלם מחדש רק את קטעי הדיבור מול המצלמה",
-    "doneAt": "2026-09-29T09:42:53.840Z",
-    "doneBy": "user"
+    "status": "open",
+    "text": "לצלם מחדש רק את קטעי הדיבור מול המצלמה"
   },
   "ep1-guess-take": {
     "blocking": true,
