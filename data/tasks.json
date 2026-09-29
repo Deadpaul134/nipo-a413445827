@@ -1,0 +1,150 @@
+{
+  "decide-bio": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:40Z",
+    "source": "knubler",
+    "sourceIds": [
+      "decide-bio"
+    ],
+    "status": "open",
+    "text": "לבחור ביו"
+  },
+  "decide-test-take": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:41Z",
+    "note": "טיפים מרועי",
+    "source": "knubler",
+    "sourceIds": [
+      "decide-test-take"
+    ],
+    "status": "open",
+    "text": "טייק ניסיון של 20 שניות מול המצלמה"
+  },
+  "ep0-chat-close-screen": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:36Z",
+    "episode": 0,
+    "note": "לא דחוף",
+    "source": "knubler",
+    "sourceIds": [
+      "ep0-chat-close-screen"
+    ],
+    "status": "open",
+    "text": "הקלטת מסך נקייה של חלונות הצ'אט נסגרים"
+  },
+  "ep0-reshoot-talking": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:35Z",
+    "episode": 0,
+    "note": "לא דחוף",
+    "source": "knubler",
+    "sourceIds": [
+      "ep0-reshoot-talking"
+    ],
+    "status": "open",
+    "text": "לצלם מחדש רק את קטעי הדיבור מול המצלמה"
+  },
+  "ep1-guess-take": {
+    "blocking": true,
+    "createdAt": "2026-09-28T19:15:32Z",
+    "episode": 1,
+    "note": "קול ותמונה יחד, בערך 3 שניות",
+    "source": "knubler",
+    "sourceIds": [
+      "ep1-guess-take"
+    ],
+    "status": "open",
+    "text": "טייק שאלת הניחוש מול המצלמה"
+  },
+  "ep1-shot5-screen": {
+    "blocking": true,
+    "createdAt": "2026-09-28T19:15:33Z",
+    "doneAt": "2026-09-29T04:57:20.262Z",
+    "doneBy": "user",
+    "episode": 1,
+    "reportedAt": "2026-09-29T06:51:00.000Z",
+    "source": "knubler",
+    "sourceIds": [
+      "ep1-shot5-screen"
+    ],
+    "status": "done",
+    "text": "שוט 5: הקלטת מסך של תיבת הדואר והקוד"
+  },
+  "ep2-robot-map": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:34Z",
+    "episode": 2,
+    "note": "דף גדול, טוש שחור עבה וטוש סגול, על הקיר הריק",
+    "source": "knubler",
+    "sourceIds": [
+      "ep2-robot-map"
+    ],
+    "status": "open",
+    "text": "לצלם את הרובוט מצייר את מפת החלקים על הבריסטול"
+  },
+  "meni-before-shots": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:42Z",
+    "note": "תמונות ה\"לפני\" של העונה",
+    "source": "meni",
+    "status": "open",
+    "text": "לצלם את הקיר הריק ואת השולחן הריק"
+  },
+  "meni-kodi-handoff": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:44Z",
+    "note": "ההודעה מוכנה, מדביקים אותה בזמן צילום",
+    "source": "meni",
+    "status": "open",
+    "text": "להעביר לקודי את הדרישות החדשות"
+  },
+  "meni-recording-setup": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:43Z",
+    "source": "meni",
+    "status": "open",
+    "text": "להקים את המסך האנכי ואת שני פרופילי ההקלטה"
+  },
+  "meni-signature-sound": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:25:00Z",
+    "note": "לא דחוף. עד אז הפרקים יוצאים בלי צליל חתימה",
+    "source": "meni",
+    "status": "open",
+    "text": "ליצור צליל חתימה לסדרה"
+  },
+  "story-ep4-hand": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:37Z",
+    "episode": 4,
+    "source": "knubler",
+    "sourceIds": [
+      "story-ep4-hand"
+    ],
+    "status": "open",
+    "text": "לספר לגדי את הסיפור של פרק 4: הוא רואה את היד שלי"
+  },
+  "story-ep5-offline": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:38Z",
+    "episode": 5,
+    "note": "לבדוק עם מני שאפשר להראות את המודל החיצוני כבוי",
+    "source": "knubler",
+    "sourceIds": [
+      "story-ep5-offline"
+    ],
+    "status": "open",
+    "text": "לספר לגדי את הסיפור של פרק 5: ניתקתי את האינטרנט"
+  },
+  "story-ep6-body": {
+    "blocking": false,
+    "createdAt": "2026-09-28T19:15:39Z",
+    "episode": 6,
+    "source": "knubler",
+    "sourceIds": [
+      "story-ep6-body"
+    ],
+    "status": "open",
+    "text": "לספר לגדי את הסיפור של פרק 6: תכננתי לו גוף"
+  }
+}

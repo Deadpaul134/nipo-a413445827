@@ -1,0 +1,49 @@
+{
+  "2026-09-28-covers": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T12:21:00.000Z",
+    "objected": false,
+    "text": "השערים של פרקים 0, 1 ו-2, בכיוון הטוש"
+  },
+  "2026-09-28-ep0-closing": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T07:02:00.000Z",
+    "episode": 0,
+    "objected": false,
+    "text": "שורת הסיום של פרק 0: \"מה אתם רוצים שהוא ידע לעשות?\" גם בקריינות וגם בכתובית"
+  },
+  "2026-09-28-ep0-reserve": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T07:01:00.000Z",
+    "episode": 0,
+    "objected": false,
+    "text": "פרק 0 מחכה עד שיש כמה פרקים מוכנים ברזרבה"
+  },
+  "2026-09-28-ep1-guess": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T12:20:00.000Z",
+    "episode": 1,
+    "objected": false,
+    "text": "פרק 1 נגמר בשאלת ניחוש: כמה הוצאתי עד עכשיו על הפרויקט"
+  },
+  "2026-09-28-ep1-narration-ear": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T17:30:00.000Z",
+    "episode": 1,
+    "objected": false,
+    "text": "הקריינות של פרק 1: בשורות 4 ו-5 שומעים נכון את המילים. אין צורך בהקלטה מחדש"
+  },
+  "2026-09-28-final-edit-gazi": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T07:00:00.000Z",
+    "objected": false,
+    "text": "העריכה הסופית אצל גזי. אתה עורך בעצמך רק אם אין ברירה"
+  },
+  "2026-09-28-ep1-parts": {
+    "by": "knubler",
+    "createdAt": "2026-09-28T14:35:00.000Z",
+    "episode": 1,
+    "objected": false,
+    "text": "כל ההזמנה של החלקים שייכת לפרויקט"
+  }
+}
