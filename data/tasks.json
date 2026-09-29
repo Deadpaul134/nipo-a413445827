@@ -53,8 +53,10 @@
     "sourceIds": [
       "ep1-guess-take"
     ],
-    "status": "open",
-    "text": "טייק שאלת הניחוש מול המצלמה"
+    "status": "done",
+    "text": "טייק שאלת הניחוש מול המצלמה",
+    "doneAt": "2026-09-29T09:19:23.923Z",
+    "doneBy": "user"
   },
   "ep1-shot5-screen": {
     "blocking": true,
