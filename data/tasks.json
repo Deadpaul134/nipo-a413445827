@@ -159,7 +159,9 @@
     "source": "meni",
     "episode": 0,
     "blocking": true,
-    "status": "open",
-    "createdAt": "2026-09-30T16:47:45.415Z"
+    "status": "done",
+    "createdAt": "2026-09-30T16:47:45.415Z",
+    "doneAt": "2026-09-30T17:02:28Z",
+    "doneBy": "source"
   }
 }
