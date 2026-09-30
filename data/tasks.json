@@ -32,7 +32,8 @@
     "status": "done",
     "text": "הקלטת מסך נקייה של חלונות הצ'אט נסגרים",
     "doneAt": "2026-09-30T16:27:13.302Z",
-    "doneBy": "user"
+    "doneBy": "user",
+    "reportedAt": "2026-09-30T16:30:55Z"
   },
   "ep0-reshoot-talking": {
     "blocking": false,
@@ -58,7 +59,8 @@
     "status": "done",
     "text": "טייק שאלת הניחוש מול המצלמה",
     "doneAt": "2026-09-30T16:23:55.556Z",
-    "doneBy": "user"
+    "doneBy": "user",
+    "reportedAt": "2026-09-30T16:30:55Z"
   },
   "ep1-shot5-screen": {
     "blocking": true,
