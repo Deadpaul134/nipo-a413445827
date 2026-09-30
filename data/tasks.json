@@ -29,8 +29,10 @@
     "sourceIds": [
       "ep0-chat-close-screen"
     ],
-    "status": "open",
-    "text": "הקלטת מסך נקייה של חלונות הצ'אט נסגרים"
+    "status": "done",
+    "text": "הקלטת מסך נקייה של חלונות הצ'אט נסגרים",
+    "doneAt": "2026-09-30T16:27:13.302Z",
+    "doneBy": "user"
   },
   "ep0-reshoot-talking": {
     "blocking": false,
