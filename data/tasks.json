@@ -183,15 +183,19 @@
     "source": "meni",
     "episode": 1,
     "blocking": true,
-    "status": "open",
-    "createdAt": "2026-10-01T03:53:59.519Z"
+    "status": "done",
+    "createdAt": "2026-10-01T03:53:59.519Z",
+    "doneAt": "2026-10-01T15:41:06Z",
+    "doneBy": "source"
   },
   "aqbq4vupqhhrgpuon9ma": {
     "text": "להעלות לתיקיית הצילומים בדרייב את השוטים של השולחן, ריק ועם החבילות",
     "note": "לא לפתוח את הקופסאות עד שגדי שולח רשימת שוטים, ביום ראשון 04.10",
     "source": "meni",
-    "status": "open",
+    "status": "done",
     "blocking": false,
-    "createdAt": "2026-10-01T11:19:13.362Z"
+    "createdAt": "2026-10-01T11:19:13.362Z",
+    "doneAt": "2026-10-01T15:41:06Z",
+    "doneBy": "source"
   }
 }
