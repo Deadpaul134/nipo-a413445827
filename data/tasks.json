@@ -110,8 +110,10 @@
     "blocking": false,
     "createdAt": "2026-09-28T19:15:43Z",
     "source": "meni",
-    "status": "open",
-    "text": "להקים את המסך האנכי ואת שני פרופילי ההקלטה"
+    "status": "done",
+    "text": "להקים את המסך האנכי ואת שני פרופילי ההקלטה",
+    "doneAt": "2026-10-02T07:40:25Z",
+    "doneBy": "source"
   },
   "meni-signature-sound": {
     "blocking": false,
@@ -174,8 +176,10 @@
     "episode": 2,
     "note": "השיחה שממנה יצאה רשימת החלקים. ממנה גדי ייקח את השאלה הראשונה",
     "source": "meni",
-    "status": "open",
-    "text": "לחפש את השיחה עם ה-AI שממנה יצאה המפה"
+    "status": "done",
+    "text": "לחפש את השיחה עם ה-AI שממנה יצאה המפה",
+    "doneAt": "2026-10-02T07:40:25Z",
+    "doneBy": "source"
   },
   "00yexh0ecxwrty2vjbev": {
     "text": "פרק 1: לצלם ולהקליט מחדש את כל הפרק, בסשן אחד",
