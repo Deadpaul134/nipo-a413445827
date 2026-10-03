@@ -47,7 +47,8 @@
     "status": "done",
     "text": "לצלם מחדש רק את קטעי הדיבור מול המצלמה",
     "doneAt": "2026-09-30T17:14:38.904Z",
-    "doneBy": "user"
+    "doneBy": "user",
+    "reportedAt": "2026-10-03T09:32:17.812Z"
   },
   "ep1-guess-take": {
     "blocking": true,
@@ -131,9 +132,11 @@
     "sourceIds": [
       "story-ep4-hand"
     ],
-    "status": "open",
+    "status": "done",
     "text": "לספר לגדי את הסיפור של פרק 4: הוא רואה את היד שלי",
-    "note": "אחרי סשן הפיתוח של הפרק. עוד לא קרה."
+    "note": "אחרי סשן הפיתוח של הפרק. עוד לא קרה.",
+    "doneAt": "2026-10-03T09:28:32.946Z",
+    "doneBy": "source"
   },
   "story-ep5-offline": {
     "blocking": false,
@@ -144,8 +147,10 @@
     "sourceIds": [
       "story-ep5-offline"
     ],
-    "status": "open",
-    "text": "לספר לגדי את הסיפור של פרק 5: ניתקתי את האינטרנט"
+    "status": "done",
+    "text": "לספר לגדי את הסיפור של פרק 5: ניתקתי את האינטרנט",
+    "doneAt": "2026-10-03T09:28:33.014Z",
+    "doneBy": "source"
   },
   "story-ep6-body": {
     "blocking": false,
@@ -155,9 +160,11 @@
     "sourceIds": [
       "story-ep6-body"
     ],
-    "status": "open",
+    "status": "done",
     "text": "לספר לגדי את הסיפור של פרק 6: תכננתי לו גוף",
-    "note": "אחרי סשן הפיתוח של הפרק. עוד לא קרה."
+    "note": "אחרי סשן הפיתוח של הפרק. עוד לא קרה.",
+    "doneAt": "2026-10-03T09:28:33.081Z",
+    "doneBy": "source"
   },
   "g22nq0ctygh4f44x0ehs": {
     "text": "להקליט שורת קריינות חדשה לפתיחה של פרק 0",
@@ -209,5 +216,52 @@
     "blocking": false,
     "status": "open",
     "createdAt": "2026-10-02T09:09:08.857Z"
+  },
+  "ep1-vo-drop-lines": {
+    "text": "להקליט לפרק 1 שתי שורות קריינות חדשות: הנפילה והפתיחה של ק2",
+    "note": "כמה טייקים לכל שורה, ליד המיקרופון. הנוסח אצל גדי בתסריט",
+    "source": "knubler",
+    "sourceIds": [
+      "ep1-vo-drop-lines"
+    ],
+    "episode": 1,
+    "blocking": true,
+    "status": "open",
+    "createdAt": "2026-10-03T09:28:33.148Z"
+  },
+  "ep0-vo-new-lines": {
+    "text": "להקליט לפרק 0 שורת קריינות אחת חדשה",
+    "note": "השורה של 15-20, הנוסח אצל גדי. השורה של 4-9 נשארת כמו שהוקלטה. לא דחוף",
+    "source": "knubler",
+    "sourceIds": [
+      "ep0-vo-new-lines"
+    ],
+    "episode": 0,
+    "blocking": false,
+    "status": "open",
+    "createdAt": "2026-10-03T09:28:33.217Z"
+  },
+  "unboxing-footage": {
+    "text": "לצלם בשקט את פתיחת הקופסאות של החלקים",
+    "note": "טלפון לאורך, חצובה, רק ידיים. לפרק בנק. מחכים למתווה מגדי",
+    "source": "knubler",
+    "sourceIds": [
+      "unboxing-footage"
+    ],
+    "blocking": false,
+    "status": "open",
+    "createdAt": "2026-10-03T09:28:33.291Z"
+  },
+  "ep2-mic-new-room": {
+    "text": "אחרי המעבר: לוודא שהמיקרופון קרוב לקיר עם הלוח",
+    "note": "בשביל שני שוטי הפנים של פרק 2",
+    "source": "knubler",
+    "sourceIds": [
+      "ep2-mic-new-room"
+    ],
+    "episode": 2,
+    "blocking": false,
+    "status": "open",
+    "createdAt": "2026-10-03T09:28:33.363Z"
   }
 }
