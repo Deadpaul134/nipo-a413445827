@@ -273,7 +273,9 @@
     ],
     "episode": 1,
     "blocking": true,
-    "status": "open",
-    "createdAt": "2026-10-03T10:01:56.088Z"
+    "status": "done",
+    "createdAt": "2026-10-03T10:01:56.088Z",
+    "doneAt": "2026-10-04T05:12:14.698Z",
+    "doneBy": "user"
   }
 }
