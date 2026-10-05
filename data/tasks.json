@@ -292,7 +292,7 @@
     "text": "לצלם בטלפון מהצד כ-10 שניות של מעקב יד: היד וההקרנה באותו פריים, בסוף היד נעצרת והכדור איתה",
     "note": "מחר, לפני ההקלטה של הפקודות ביד",
     "source": "knubler",
-    "episode": 4,
+    "episode": 5,
     "status": "open",
     "blocking": false,
     "createdAt": "2026-10-05T05:13:45.124Z"
@@ -301,7 +301,7 @@
     "text": "בדיקה חיה של פקודות היד מול המצלמה: אגרוף, כף יד ואגודל",
     "note": "עם קודי. לחבר את המקרן ולפתוח את ניפו מהסמל. הרגעים ד8 עד ד13 מוקלטים לבד",
     "source": "kodi",
-    "episode": 4,
+    "episode": 5,
     "blocking": false,
     "status": "open",
     "createdAt": "2026-10-05T11:12:33.201Z"
@@ -313,5 +313,22 @@
     "blocking": false,
     "status": "open",
     "createdAt": "2026-10-05T11:12:33.268Z"
+  },
+  "2ccheo2jqnufd0huh7n0": {
+    "text": "להקליט לפרק 4 שש שורות קריינות ברצף אחד, ליד המיקרופון, כולל המשפט החוזר",
+    "note": "השורות בחבילת העריכה של גזי ובהודעה של קנובלר. בלי זה הפרק לא יוצא",
+    "source": "knubler",
+    "episode": 4,
+    "status": "open",
+    "blocking": true,
+    "createdAt": "2026-10-05T11:22:02.358Z"
+  },
+  "57xhzpaz8alfs1nmc1jr": {
+    "text": "לבחור טראק מוזיקה לפרק 4: שקט ונבנה, נכנס בשנייה 25",
+    "source": "knubler",
+    "episode": 4,
+    "status": "open",
+    "blocking": false,
+    "createdAt": "2026-10-05T11:22:02.427Z"
   }
 }
