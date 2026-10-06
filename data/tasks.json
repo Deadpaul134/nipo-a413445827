@@ -330,5 +330,23 @@
     "status": "open",
     "blocking": false,
     "createdAt": "2026-10-05T11:22:02.427Z"
+  },
+  "nffegoogzvmxjxlhem9o": {
+    "text": "לשלוח לקודי צילום של חלון הבדיקה של ניפו (מקש F2) אחרי פתיחה",
+    "note": "כתוב בו הדרך הישנה למרות שהנקודה מתחת לאצבע. צריך לראות את השורה ואת הריבועים הלבנים.",
+    "source": "kodi",
+    "episode": 5,
+    "blocking": false,
+    "status": "open",
+    "createdAt": "2026-10-06T03:39:46.636Z"
+  },
+  "zrbzt5pd8fcd4epl0lhp": {
+    "text": "לנסות צביטה על הכפתורים כן ולא, 10 פעמים",
+    "note": "מוכן אם 9 מתוך 10 פוגעות. כדאי עם אור עמום בחדר.",
+    "source": "kodi",
+    "episode": 5,
+    "blocking": false,
+    "status": "open",
+    "createdAt": "2026-10-06T03:39:46.707Z"
   }
 }
