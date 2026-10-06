@@ -229,7 +229,8 @@
     "status": "done",
     "createdAt": "2026-10-03T09:28:33.148Z",
     "doneAt": "2026-10-06T15:51:42.779Z",
-    "doneBy": "user"
+    "doneBy": "user",
+    "reportedAt": "2026-10-06T16:21:49.379Z"
   },
   "ep0-vo-new-lines": {
     "text": "להקליט לפרק 0 שורת קריינות אחת חדשה",
@@ -243,7 +244,8 @@
     "status": "done",
     "createdAt": "2026-10-03T09:28:33.217Z",
     "doneAt": "2026-10-06T16:00:17.901Z",
-    "doneBy": "user"
+    "doneBy": "user",
+    "reportedAt": "2026-10-06T16:21:49.464Z"
   },
   "unboxing-footage": {
     "text": "לצלם בשקט את פתיחת הקופסאות של החלקים",
