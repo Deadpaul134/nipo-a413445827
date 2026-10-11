@@ -408,5 +408,21 @@
     "status": "open",
     "blocking": false,
     "createdAt": "2026-10-10T12:08:10.463Z"
+  },
+  "2wtteizb51eehzxpsawn": {
+    "text": "ליצור מפתח לאוזן בענן ולשמור אותו בהגדרות של Windows",
+    "note": "ההוראות בבדיקת השמיעה של קודי, בחלק \"מפתח לאוזן בענן\"",
+    "source": "kodi",
+    "status": "open",
+    "blocking": false,
+    "createdAt": "2026-10-11T08:28:33.838Z"
+  },
+  "gvtinfu4vcreeowd045y": {
+    "text": "להקליט את עשרת המשפטים של בדיקת השמיעה, עם הפסקה של 3 שניות ביניהם",
+    "note": "ההקלטה נשמרת במחשב בלבד. אחר כך קודי משווה בין האוזן בבית לאוזן בענן",
+    "source": "kodi",
+    "status": "open",
+    "blocking": false,
+    "createdAt": "2026-10-11T08:28:33.914Z"
   }
 }
