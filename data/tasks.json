@@ -426,5 +426,21 @@
     "status": "open",
     "blocking": false,
     "createdAt": "2026-10-11T08:28:33.914Z"
+  },
+  "3xhvm811skoy6dh3gr3q": {
+    "text": "ליצור מפתח חינמי לקול של מיקרוסופט, לפי המדריך בקובץ הקול",
+    "note": "dev/voice.md, בחלק השוואת קולות. רק החבילה החינמית",
+    "source": "kodi",
+    "status": "open",
+    "blocking": false,
+    "createdAt": "2026-10-11T08:59:58.800Z"
+  },
+  "80ebzwna3dpthvn7reld": {
+    "text": "לשמוע את דוגמאות הקולות ולבחור קול לניפו",
+    "note": "אחרי שהמפתח מוכן, קודי מריץ את ההשוואה. ההשוואה מצולמת",
+    "source": "kodi",
+    "status": "open",
+    "blocking": false,
+    "createdAt": "2026-10-11T08:59:58.874Z"
   }
 }
