@@ -6,8 +6,10 @@
     "sourceIds": [
       "decide-bio"
     ],
-    "status": "open",
-    "text": "לבחור ביו"
+    "status": "cancelled",
+    "text": "לבחור ביו",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "decide-test-take": {
     "blocking": false,
@@ -17,8 +19,10 @@
     "sourceIds": [
       "decide-test-take"
     ],
-    "status": "open",
-    "text": "טייק ניסיון של 20 שניות מול המצלמה"
+    "status": "cancelled",
+    "text": "טייק ניסיון של 20 שניות מול המצלמה",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "ep0-chat-close-screen": {
     "blocking": false,
@@ -88,24 +92,30 @@
     "sourceIds": [
       "ep2-robot-map"
     ],
-    "status": "open",
-    "text": "לצייר מול המצלמה את מפת החלקים של הרובוט, על דף על הקיר הריק"
+    "status": "cancelled",
+    "text": "לצייר מול המצלמה את מפת החלקים של הרובוט, על דף על הקיר הריק",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "meni-before-shots": {
     "blocking": false,
     "createdAt": "2026-09-28T19:15:42Z",
     "note": "תמונות ה\"לפני\" של העונה. בחדר החדש, אחרי המעבר ולפני שתולים את הדף",
     "source": "meni",
-    "status": "open",
-    "text": "לצלם את הקיר הריק ואת השולחן הריק"
+    "status": "cancelled",
+    "text": "לצלם את הקיר הריק ואת השולחן הריק",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "meni-kodi-handoff": {
     "blocking": false,
     "createdAt": "2026-09-28T19:15:44Z",
     "note": "ההודעה עודכנה 07.10: 14 המיומנויות, ושאלה על עיניים לניפו על הקיר",
     "source": "meni",
-    "status": "open",
-    "text": "להעביר לקודי את הדרישות החדשות"
+    "status": "cancelled",
+    "text": "להעביר לקודי את הדרישות החדשות",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "meni-recording-setup": {
     "blocking": false,
@@ -121,8 +131,10 @@
     "createdAt": "2026-09-28T19:25:00Z",
     "note": "לא דחוף. עד אז הפרקים יוצאים בלי צליל חתימה",
     "source": "meni",
-    "status": "open",
-    "text": "ליצור צליל חתימה לסדרה"
+    "status": "cancelled",
+    "text": "ליצור צליל חתימה לסדרה",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "story-ep4-hand": {
     "blocking": false,
@@ -255,8 +267,10 @@
       "unboxing-footage"
     ],
     "blocking": false,
-    "status": "open",
-    "createdAt": "2026-10-03T09:28:33.291Z"
+    "status": "cancelled",
+    "createdAt": "2026-10-03T09:28:33.291Z",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "ep2-mic-new-room": {
     "text": "אחרי המעבר: לוודא שהמיקרופון קרוב לקיר עם הלוח",
@@ -267,8 +281,10 @@
     ],
     "episode": 2,
     "blocking": false,
-    "status": "open",
-    "createdAt": "2026-10-03T09:28:33.363Z"
+    "status": "cancelled",
+    "createdAt": "2026-10-03T09:28:33.363Z",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "ep1-store-scroll": {
     "text": "להקליט מסך קצר של גלילה מהירה בין מנועים בחנות",
@@ -299,9 +315,11 @@
     "note": "מחר, לפני ההקלטה של הפקודות ביד",
     "source": "knubler",
     "episode": 5,
-    "status": "open",
+    "status": "cancelled",
     "blocking": false,
-    "createdAt": "2026-10-05T05:13:45.124Z"
+    "createdAt": "2026-10-05T05:13:45.124Z",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "adcqm327ruya7ddkdi9e": {
     "text": "בדיקה חיה של פקודות היד מול המצלמה: אגרוף, כף יד ואגודל",
@@ -336,10 +354,12 @@
     "text": "לבחור טראק מוזיקה לפרק 4: שקט ונבנה, נכנס בשנייה 25",
     "source": "knubler",
     "episode": 4,
-    "status": "open",
+    "status": "cancelled",
     "blocking": false,
     "createdAt": "2026-10-05T11:22:02.427Z",
-    "note": "פרק 4 מוקפא מ-07.10. לא לעשות עד שיוחלט מה נכנס ממנו"
+    "note": "פרק 4 מוקפא מ-07.10. לא לעשות עד שיוחלט מה נכנס ממנו",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "nffegoogzvmxjxlhem9o": {
     "text": "לשלוח לקודי צילום של חלון הבדיקה של ניפו (מקש F2) אחרי פתיחה",
@@ -381,8 +401,10 @@
     "source": "meni",
     "episode": 4,
     "blocking": false,
-    "status": "open",
-    "createdAt": "2026-10-07T12:07:24.974Z"
+    "status": "cancelled",
+    "createdAt": "2026-10-07T12:07:24.974Z",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "nbn7zugku8hxx3zp5rxt": {
     "text": "להקליט מסך לפרק 4: חלון ההגדרות שבו משנים את כיוון התצוגה, כ-5 שניות",
@@ -390,16 +412,20 @@
     "source": "meni",
     "episode": 4,
     "blocking": false,
-    "status": "open",
-    "createdAt": "2026-10-07T12:07:25.059Z"
+    "status": "cancelled",
+    "createdAt": "2026-10-07T12:07:25.059Z",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "asezsalt6dy5nvd8nldk": {
     "text": "לצייר את הלוח החדש על בריסטול לבן 50×70, לפי דף ההדרכה של נוגה",
     "note": "מחכה לתיקון קטן של נוגה בדף. מני יעביר את הדף המתוקן",
     "source": "knubler",
-    "status": "open",
+    "status": "cancelled",
     "blocking": false,
-    "createdAt": "2026-10-07T13:30:25.354Z"
+    "createdAt": "2026-10-07T13:30:25.354Z",
+    "doneBy": "source",
+    "doneAt": "2026-10-12T06:27:38Z"
   },
   "f4gq4ntg6jy21qmq9yb0": {
     "text": "להקשיב לניפו מסביר משהו מהספרייה, ולרשום מילים שעדיין נשמעות עקום",
